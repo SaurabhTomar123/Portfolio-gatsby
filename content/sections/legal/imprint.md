@@ -2,14 +2,13 @@
 sectionId: imprint
 ---
 
-#### Information pursuant to § 5 TMG
+####
 
-YOURNAME<br />
-YOURSTREET<br />
-YOURCITY<br />
-YOURCOUNTRY
+Saurabh Singh Tomar<br />
+Bengaluru<br />
+India
 
-E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
+E-Mail Address: <u>saurabhtomar116@gmail.com</u>
 
 ---
 
