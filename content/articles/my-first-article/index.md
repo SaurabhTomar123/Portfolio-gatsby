@@ -1,24 +1,22 @@
 ---
+
 title: "This is an exemplary article for the blog(Will be Uploaded in future)."
 description: "This description will be used for the article listing and search results on Google."
 date: "2023-07-12"
 banner:
-  src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
-  alt: "First Markdown Post"
-  caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
+src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
+alt: "First Markdown Post"
+caption: ''
 categories:
-  - "Guide"
-  - "Tutorial"
 keywords:
-  - "Saurabh"
-  - "Gatsby"
-  - "Portfolio"
-  - "Blog"
----
+
+- "Saurabh"
+- ""
+- "Portfolio"---
 
 ## Code block test
 
-````css
+```css
 .AClass .Subtitle {
   margin: -0.5rem 0 0 0;
   font-weight: 700;
@@ -45,5 +43,4 @@ keywords:
     display: block;
   }
 }
-```Hey there,Its gonna be  blog website
-````
+```

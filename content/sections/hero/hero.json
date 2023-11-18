@@ -1,5 +1,5 @@
 {
-  "intro": "Hey",
+  "intro": "Hii!",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
@@ -10,7 +10,7 @@
   },
   "title": "I'm Saurabh Tomar",
   "subtitle": {
-    "prefix": "A Front End Developer ",
+    "prefix": " ",
     "highlight": "",
     "suffix": ""
   },

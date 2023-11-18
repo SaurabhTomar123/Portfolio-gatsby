@@ -10,7 +10,7 @@
     "bio": "",
     "social": {
       "github": "https://github.com/SaurabhTomar123",
-      "medium": "https://konstantinmuenster.medium.com",
+      "medium": "",
       "linkedin": "https://www.linkedin.com/in/saurabh-tomar-157160206/",
       "mail": "mailto:saurabhtomar116@gmail.com"
     }
@@ -30,9 +30,7 @@
         "url": "/resume.pdf"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" },
-        { "label": "`This Theme is taken from gatsby starters`", "url": "https://www.gatsbyjs.com/starters/konstantinmuenster/gatsby-starter-portfolio-minimal-theme" }
+        { "label": "LinkedIn", "url": "https://www.linkedin.com/in/saurabh-tomar-157160206/" }
       ]
     },
     "featureToggles": {

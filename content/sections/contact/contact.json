@@ -1,13 +1,9 @@
 {
-  "name": "My email Id : ",
+  "name": "Email",
   "email": "saurabhtomar116@gmail.com",
-  "description": "You can contact me through email.",
+  "description": "",
   "image": {
-    "src": "../../images/email.png",
+    "src": "../../images/email@.png",
     "alt": ""
-  },
-  "socialProfiles": {
-    "from": ["LinkedIn", "Github"],
-    "showIcons": true
   }
 }
