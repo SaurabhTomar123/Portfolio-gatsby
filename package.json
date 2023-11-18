@@ -1,5 +1,5 @@
 {
-  "name": "Saurabh-Portfolio",
+  "name": "gatsby-starter-portfolio-minimal-theme",
   "version": "1.0.0",
   "description": "A Portfolio Project",
   "scripts": {
@@ -20,13 +20,13 @@
   "author": "Saurabh Tomar",
   "license": "0BSD",
   "starter-name": "gatsby-starter-portfolio-minimal-theme",
-  "homepage": "",
+  "homepage": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme.git"
+    "url": "https://github.com/SaurabhTomar123/Portfolio-gatsby.git"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme/issues"
   },
   "keywords": [
     "react",
