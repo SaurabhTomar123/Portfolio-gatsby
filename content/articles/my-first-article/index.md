@@ -5,12 +5,15 @@ date: "2023-07-12"
 banner:
   src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
   alt: "First Markdown Post"
-  caption: ""
+  caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
 categories:
+  - "Guide"
+  - "Tutorial"
 keywords:
   - "Saurabh"
-  - ""
+  - "Gatsby"
   - "Portfolio"
+  - "Blog"
 ---
 
 ## Code block test
